@@ -1,4 +1,4 @@
-# react-webpack-babel
+# Mongodb Graphql server
 
 Minimal application for creating server with mongodb, graphql and express.
 
